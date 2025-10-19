@@ -23,8 +23,4 @@ A Team of modders focused on developing mods for [Friday Night Funkin'](httpsgit
 
 ## Projects & Repositories
 
-Check Our Recent Projects.
-
----
-
-[Visit our GameBanana page →](httpsgamebanana.comstudios38077)
+## Check Our Recent Projects
