@@ -7,7 +7,7 @@ A Team of modders focused on developing mods for [Friday Night Funkin'](httpsgit
 
 ## Team Members
 
-- Joadash — Lead Artist & Director  
+- SEXO — Lead Artist & Director  
   [httpsx.comjoadash_](httpsx.comjoadash_)
 
 - FatzFries — Co-Director & Charter  
@@ -24,3 +24,4 @@ A Team of modders focused on developing mods for [Friday Night Funkin'](httpsgit
 ## Projects & Repositories
 
 ## Check Our Recent Projects
+
